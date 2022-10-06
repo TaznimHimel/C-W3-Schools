@@ -1,4 +1,4 @@
-
+//User Input Strings
 #include <stdio.h>
 
 int main() {
